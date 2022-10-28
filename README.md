@@ -1,4 +1,4 @@
-# learn-vuex
+# vuex-counter
 
 ## Project setup
 ```
